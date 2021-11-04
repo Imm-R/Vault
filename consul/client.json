@@ -7,8 +7,7 @@
         "intro_token_file": "/consul/config/tokens/jwt",
         "server_addresses":[
             "consul-server1",
-            "consul-server2",
-            "consul-server3"
+            "consul-server2"
         ]
     },
     "verify_incoming": false,

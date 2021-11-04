@@ -9,8 +9,7 @@
         "http" : "0.0.0.0"
     },
     "retry_join":[
-        "consul-server1",
-        "consul-server3"
+        "consul-server1"
     ],
 	"acl": { 
 		"enabled": true,
